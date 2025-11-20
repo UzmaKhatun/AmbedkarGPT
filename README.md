@@ -1,4 +1,5 @@
 # 📜 AmbedkarGPT - AI RAG System
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ambedkar-gpt.streamlit.app/)
 
 Welcome! This is a **Retrieval-Augmented Generation (RAG)** system designed to answer questions based on the speeches and writings of Dr. B.R. Ambedkar. 
 
@@ -94,3 +95,16 @@ python evaluation.py
 ```
 
 Note: This might take 2-3 minutes as it rebuilds the database 3 times to test different strategies.
+
+---
+
+## 👤 Author & Contact
+
+**Developed by:** Uzma Khatun  
+**Project Type:** RAG (Retrieval-Augmented Generation) Prototype
+
+*   📧 **Email:** uzmakhatun0205@gmail.com
+*   🔗 **LinkedIn:** https://www.linkedin.com/in/uzma-khatun-88b990334/
+*   🐙 **GitHub:** https://github.com/UzmaKhatun
+
+*Open to feedback and collaboration. Feel free to reach out!*
