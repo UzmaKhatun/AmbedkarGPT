@@ -1,0 +1,26 @@
+{
+  "Small": {
+    "retrieval_hit_rate": 0.88,
+    "retrieval_mrr": 0.8666666666666666,
+    "cosine_similarity": 0.5330436378541301,
+    "rouge_l": 0.20246158060166775,
+    "faithfulness": 1.0,
+    "answer_relevance": 1.0
+  },
+  "Medium": {
+    "retrieval_hit_rate": 0.88,
+    "retrieval_mrr": 0.92,
+    "cosine_similarity": 0.5532265913524811,
+    "rouge_l": 0.27060391277149953,
+    "faithfulness": 1.0,
+    "answer_relevance": 1.0
+  },
+  "Large": {
+    "retrieval_hit_rate": 0.88,
+    "retrieval_mrr": 0.92,
+    "cosine_similarity": 0.6005207462723698,
+    "rouge_l": 0.34295349554310267,
+    "faithfulness": 1.0,
+    "answer_relevance": 1.0
+  }
+}
